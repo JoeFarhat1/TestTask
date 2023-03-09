@@ -1,0 +1,17 @@
+{
+    "navBarData":[{
+        "title":"Home",
+        "path":"/",
+        "id":"1"
+    },{
+        "title":"Register",
+        "path":"/register",
+        "id":"2"
+    },{
+
+        "title":"Dashboard",
+        "path":"/dashboard",
+        "id":"3"
+    }
+    ]
+}
