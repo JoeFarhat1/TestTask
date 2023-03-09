@@ -14,7 +14,7 @@ export const ProductItem = ({ item }) => {
         <p className="product-description">
           {isExpanded ? (
             <>
-              ${item.description}
+              {item.description}
               <span
                 className="expandable"
                 onClick={() => setIsExpanded(false)}

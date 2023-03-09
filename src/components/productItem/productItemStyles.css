@@ -43,7 +43,7 @@ h4, h3, p{
 }
 .product-description{
     height: 70px;
-    font-size: 10px;
+    font-size: 15px;
     transition: 0.5s all ease;
 }
 .expandable{
